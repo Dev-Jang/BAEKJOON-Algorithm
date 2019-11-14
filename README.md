@@ -3,5 +3,5 @@ BAEKJOON Algorithm using Python3
 
 <br>
 
-## 링크
+## Link
 [BAEKJOON Online Judge](https://www.acmicpc.net/)
