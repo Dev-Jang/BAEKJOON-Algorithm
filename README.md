@@ -1,7 +1,7 @@
 # BAEKJOON-Algorithm
 BAEKJOON Algorithm using Python3
 
-<br>
+<hr>
 
 ## Link
 [BAEKJOON Online Judge](https://www.acmicpc.net/)
