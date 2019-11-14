@@ -1,3 +1,4 @@
+#10950
 T = int(input())
 a,b = [],[]
 for i in range(0,T):

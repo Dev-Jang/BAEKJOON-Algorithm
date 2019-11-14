@@ -1,3 +1,4 @@
+#10817
 A,B,C = map(int, input().split())
 if (B <= A <= C) or (C <= A <= B):
     print(A)

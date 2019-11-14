@@ -1,3 +1,4 @@
+#2884
 hour, minute = map(int, input().split())
 if minute >= 45:
     minute -= 45
