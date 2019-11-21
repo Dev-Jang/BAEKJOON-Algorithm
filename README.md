@@ -1,10 +1,10 @@
 # BAEKJOON-Algorithm
 BAEKJOON Algorithm using Python3
 
-<code> Example
+<pre>Example<code>
   #[Problem number]
   [Python3 Code]
-</code>
+</code></pre>
 
 <br>
 
