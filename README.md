@@ -4,6 +4,8 @@ BAEKJOON Algorithm using Python3
 <code> Example
   #[Problem number]
   [Python3 Code]
+</code>
+
 <br>
 
 ## Reference
